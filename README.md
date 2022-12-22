@@ -3,10 +3,16 @@
 ### using docker
 simply run this command
 
+linux
 ```bash
 ./startserver.sh
 ```
+windows
+```bash
+./startserver.bat
+```
 - run index.html using live server / simply open in the browser
+- to stop run `docker stop finitive-notif`
 
 ### native run
 
